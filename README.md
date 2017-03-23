@@ -1,5 +1,5 @@
 # VoyagerX-Runtime-Library
-Provides an array of class types for windows, networking, and other core operations
+Provides an array of class types for windows, networking, and other core runtime operations
 
 Notice:
 The VoyagerX Library is secured by github and unauthorized downloads or changes to any related files or directories is in violation to github's terms and services.
